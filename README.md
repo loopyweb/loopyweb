@@ -1,6 +1,7 @@
 ## Hi there 👋
-🌱 I’m currently learning ...basic cybersecurity skills
- 🔭 I’m currently working on a sports analysis program
+🌱 I’m currently learning basic cybersecurity skills
+
+ 🔭 Working on a sports analysis program
 <!--
 **loopyweb/loopyweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
